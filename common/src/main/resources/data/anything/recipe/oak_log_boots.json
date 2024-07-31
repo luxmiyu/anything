@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oak_log"
+    }
+  },
+  "result": {
+    "id": "anything:oak_log_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:raw_gold_block"
+    }
+  },
+  "result": {
+    "id": "anything:raw_gold_block_boots",
+    "count": 1
+  }
+}

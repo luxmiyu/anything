@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "#",
+    "#",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:respawn_anchor"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:respawn_anchor_sword",
+    "count": 1
+  }
+}

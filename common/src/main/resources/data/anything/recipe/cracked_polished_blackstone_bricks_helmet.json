@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cracked_polished_blackstone_bricks"
+    }
+  },
+  "result": {
+    "id": "anything:cracked_polished_blackstone_bricks_helmet",
+    "count": 1
+  }
+}

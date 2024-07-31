@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    "#I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:orange_stained_glass"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:orange_stained_glass_axe",
+    "count": 1
+  }
+}

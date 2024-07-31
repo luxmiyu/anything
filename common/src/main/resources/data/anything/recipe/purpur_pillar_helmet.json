@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:purpur_pillar"
+    }
+  },
+  "result": {
+    "id": "anything:purpur_pillar_helmet",
+    "count": 1
+  }
+}

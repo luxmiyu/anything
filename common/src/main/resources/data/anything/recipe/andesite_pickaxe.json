@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:andesite"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:andesite_pickaxe",
+    "count": 1
+  }
+}

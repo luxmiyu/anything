@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:bubble_coral_block"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:bubble_coral_block_hoe",
+    "count": 1
+  }
+}

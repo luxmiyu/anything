@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_red_sandstone"
+    }
+  },
+  "result": {
+    "id": "anything:chiseled_red_sandstone_boots",
+    "count": 1
+  }
+}

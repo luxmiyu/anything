@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:blue_shulker_box"
+    }
+  },
+  "result": {
+    "id": "anything:blue_shulker_box_boots",
+    "count": 1
+  }
+}

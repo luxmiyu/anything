@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    "#I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:glass"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:glass_axe",
+    "count": 1
+  }
+}

@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    "#I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:oxidized_copper_grate"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:oxidized_copper_grate_axe",
+    "count": 1
+  }
+}

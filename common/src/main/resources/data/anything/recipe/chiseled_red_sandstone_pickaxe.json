@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    " I ",
+    " I "
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_red_sandstone"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:chiseled_red_sandstone_pickaxe",
+    "count": 1
+  }
+}

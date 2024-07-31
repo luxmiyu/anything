@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:red_stained_glass"
+    }
+  },
+  "result": {
+    "id": "anything:red_stained_glass_chestplate",
+    "count": 1
+  }
+}

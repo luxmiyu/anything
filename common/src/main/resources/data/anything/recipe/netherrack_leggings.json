@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:netherrack"
+    }
+  },
+  "result": {
+    "id": "anything:netherrack_leggings",
+    "count": 1
+  }
+}

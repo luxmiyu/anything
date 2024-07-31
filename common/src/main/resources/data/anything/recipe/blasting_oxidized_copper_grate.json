@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:oxidized_copper_grate_sword"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_pickaxe"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_axe"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_shovel"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_hoe"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_helmet"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_chestplate"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_leggings"
+    },
+    {
+      "item": "anything:oxidized_copper_grate_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oxidized_copper_grate"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

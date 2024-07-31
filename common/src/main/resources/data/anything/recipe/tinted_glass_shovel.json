@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "#",
+    "I",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tinted_glass"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:tinted_glass_shovel",
+    "count": 1
+  }
+}

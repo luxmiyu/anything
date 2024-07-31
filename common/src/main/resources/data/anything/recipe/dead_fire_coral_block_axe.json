@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    "#I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dead_fire_coral_block"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:dead_fire_coral_block_axe",
+    "count": 1
+  }
+}

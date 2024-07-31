@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:orange_concrete_sword"
+    },
+    {
+      "item": "anything:orange_concrete_pickaxe"
+    },
+    {
+      "item": "anything:orange_concrete_axe"
+    },
+    {
+      "item": "anything:orange_concrete_shovel"
+    },
+    {
+      "item": "anything:orange_concrete_hoe"
+    },
+    {
+      "item": "anything:orange_concrete_helmet"
+    },
+    {
+      "item": "anything:orange_concrete_chestplate"
+    },
+    {
+      "item": "anything:orange_concrete_leggings"
+    },
+    {
+      "item": "anything:orange_concrete_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:orange_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

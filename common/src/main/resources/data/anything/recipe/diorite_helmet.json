@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diorite"
+    }
+  },
+  "result": {
+    "id": "anything:diorite_helmet",
+    "count": 1
+  }
+}

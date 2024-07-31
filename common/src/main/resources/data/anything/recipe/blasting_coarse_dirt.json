@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:coarse_dirt_sword"
+    },
+    {
+      "item": "anything:coarse_dirt_pickaxe"
+    },
+    {
+      "item": "anything:coarse_dirt_axe"
+    },
+    {
+      "item": "anything:coarse_dirt_shovel"
+    },
+    {
+      "item": "anything:coarse_dirt_hoe"
+    },
+    {
+      "item": "anything:coarse_dirt_helmet"
+    },
+    {
+      "item": "anything:coarse_dirt_chestplate"
+    },
+    {
+      "item": "anything:coarse_dirt_leggings"
+    },
+    {
+      "item": "anything:coarse_dirt_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:coarse_dirt"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

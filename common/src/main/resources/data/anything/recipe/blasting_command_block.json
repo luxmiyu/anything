@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:command_block_sword"
+    },
+    {
+      "item": "anything:command_block_pickaxe"
+    },
+    {
+      "item": "anything:command_block_axe"
+    },
+    {
+      "item": "anything:command_block_shovel"
+    },
+    {
+      "item": "anything:command_block_hoe"
+    },
+    {
+      "item": "anything:command_block_helmet"
+    },
+    {
+      "item": "anything:command_block_chestplate"
+    },
+    {
+      "item": "anything:command_block_leggings"
+    },
+    {
+      "item": "anything:command_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:command_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

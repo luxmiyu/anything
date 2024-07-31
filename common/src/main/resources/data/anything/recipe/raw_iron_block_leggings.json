@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:raw_iron_block"
+    }
+  },
+  "result": {
+    "id": "anything:raw_iron_block_leggings",
+    "count": 1
+  }
+}

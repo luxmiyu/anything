@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jack_o_lantern"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:jack_o_lantern_hoe",
+    "count": 1
+  }
+}

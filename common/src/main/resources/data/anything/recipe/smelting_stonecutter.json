@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:stonecutter_sword"
+    },
+    {
+      "item": "anything:stonecutter_pickaxe"
+    },
+    {
+      "item": "anything:stonecutter_axe"
+    },
+    {
+      "item": "anything:stonecutter_shovel"
+    },
+    {
+      "item": "anything:stonecutter_hoe"
+    },
+    {
+      "item": "anything:stonecutter_helmet"
+    },
+    {
+      "item": "anything:stonecutter_chestplate"
+    },
+    {
+      "item": "anything:stonecutter_leggings"
+    },
+    {
+      "item": "anything:stonecutter_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stonecutter"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

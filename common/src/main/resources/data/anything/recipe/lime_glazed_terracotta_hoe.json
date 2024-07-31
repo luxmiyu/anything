@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lime_glazed_terracotta"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:lime_glazed_terracotta_hoe",
+    "count": 1
+  }
+}

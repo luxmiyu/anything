@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "anything:item/deepslate_coal_ore_shovel"
+  }
+}

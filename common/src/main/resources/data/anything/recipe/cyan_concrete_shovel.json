@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "#",
+    "I",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cyan_concrete"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:cyan_concrete_shovel",
+    "count": 1
+  }
+}

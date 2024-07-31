@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:basalt_sword"
+    },
+    {
+      "item": "anything:basalt_pickaxe"
+    },
+    {
+      "item": "anything:basalt_axe"
+    },
+    {
+      "item": "anything:basalt_shovel"
+    },
+    {
+      "item": "anything:basalt_hoe"
+    },
+    {
+      "item": "anything:basalt_helmet"
+    },
+    {
+      "item": "anything:basalt_chestplate"
+    },
+    {
+      "item": "anything:basalt_leggings"
+    },
+    {
+      "item": "anything:basalt_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:basalt"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:reinforced_deepslate_sword"
+    },
+    {
+      "item": "anything:reinforced_deepslate_pickaxe"
+    },
+    {
+      "item": "anything:reinforced_deepslate_axe"
+    },
+    {
+      "item": "anything:reinforced_deepslate_shovel"
+    },
+    {
+      "item": "anything:reinforced_deepslate_hoe"
+    },
+    {
+      "item": "anything:reinforced_deepslate_helmet"
+    },
+    {
+      "item": "anything:reinforced_deepslate_chestplate"
+    },
+    {
+      "item": "anything:reinforced_deepslate_leggings"
+    },
+    {
+      "item": "anything:reinforced_deepslate_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:reinforced_deepslate"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

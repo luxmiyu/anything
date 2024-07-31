@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:warped_wart_block_sword"
+    },
+    {
+      "item": "anything:warped_wart_block_pickaxe"
+    },
+    {
+      "item": "anything:warped_wart_block_axe"
+    },
+    {
+      "item": "anything:warped_wart_block_shovel"
+    },
+    {
+      "item": "anything:warped_wart_block_hoe"
+    },
+    {
+      "item": "anything:warped_wart_block_helmet"
+    },
+    {
+      "item": "anything:warped_wart_block_chestplate"
+    },
+    {
+      "item": "anything:warped_wart_block_leggings"
+    },
+    {
+      "item": "anything:warped_wart_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:warped_wart_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

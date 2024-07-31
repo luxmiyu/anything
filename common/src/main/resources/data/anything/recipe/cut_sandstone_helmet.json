@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cut_sandstone"
+    }
+  },
+  "result": {
+    "id": "anything:cut_sandstone_helmet",
+    "count": 1
+  }
+}

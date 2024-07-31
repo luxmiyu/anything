@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:waxed_exposed_copper_grate_sword"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_pickaxe"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_axe"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_shovel"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_hoe"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_helmet"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_chestplate"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_leggings"
+    },
+    {
+      "item": "anything:waxed_exposed_copper_grate_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:waxed_exposed_copper_grate"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

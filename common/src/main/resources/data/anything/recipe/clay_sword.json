@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "#",
+    "#",
+    "I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:clay_sword",
+    "count": 1
+  }
+}

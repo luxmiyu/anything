@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sticky_piston"
+    }
+  },
+  "result": {
+    "id": "anything:sticky_piston_chestplate",
+    "count": 1
+  }
+}

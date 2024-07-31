@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:pink_terracotta_sword"
+    },
+    {
+      "item": "anything:pink_terracotta_pickaxe"
+    },
+    {
+      "item": "anything:pink_terracotta_axe"
+    },
+    {
+      "item": "anything:pink_terracotta_shovel"
+    },
+    {
+      "item": "anything:pink_terracotta_hoe"
+    },
+    {
+      "item": "anything:pink_terracotta_helmet"
+    },
+    {
+      "item": "anything:pink_terracotta_chestplate"
+    },
+    {
+      "item": "anything:pink_terracotta_leggings"
+    },
+    {
+      "item": "anything:pink_terracotta_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:pink_terracotta"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

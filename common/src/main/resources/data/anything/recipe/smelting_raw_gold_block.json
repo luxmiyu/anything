@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:raw_gold_block_sword"
+    },
+    {
+      "item": "anything:raw_gold_block_pickaxe"
+    },
+    {
+      "item": "anything:raw_gold_block_axe"
+    },
+    {
+      "item": "anything:raw_gold_block_shovel"
+    },
+    {
+      "item": "anything:raw_gold_block_hoe"
+    },
+    {
+      "item": "anything:raw_gold_block_helmet"
+    },
+    {
+      "item": "anything:raw_gold_block_chestplate"
+    },
+    {
+      "item": "anything:raw_gold_block_leggings"
+    },
+    {
+      "item": "anything:raw_gold_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:raw_gold_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:honeycomb_block_sword"
+    },
+    {
+      "item": "anything:honeycomb_block_pickaxe"
+    },
+    {
+      "item": "anything:honeycomb_block_axe"
+    },
+    {
+      "item": "anything:honeycomb_block_shovel"
+    },
+    {
+      "item": "anything:honeycomb_block_hoe"
+    },
+    {
+      "item": "anything:honeycomb_block_helmet"
+    },
+    {
+      "item": "anything:honeycomb_block_chestplate"
+    },
+    {
+      "item": "anything:honeycomb_block_leggings"
+    },
+    {
+      "item": "anything:honeycomb_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:honeycomb_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

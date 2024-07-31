@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mossy_stone_bricks"
+    }
+  },
+  "result": {
+    "id": "anything:mossy_stone_bricks_helmet",
+    "count": 1
+  }
+}

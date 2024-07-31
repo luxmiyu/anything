@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:amethyst_block_sword"
+    },
+    {
+      "item": "anything:amethyst_block_pickaxe"
+    },
+    {
+      "item": "anything:amethyst_block_axe"
+    },
+    {
+      "item": "anything:amethyst_block_shovel"
+    },
+    {
+      "item": "anything:amethyst_block_hoe"
+    },
+    {
+      "item": "anything:amethyst_block_helmet"
+    },
+    {
+      "item": "anything:amethyst_block_chestplate"
+    },
+    {
+      "item": "anything:amethyst_block_leggings"
+    },
+    {
+      "item": "anything:amethyst_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:amethyst_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

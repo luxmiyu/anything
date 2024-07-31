@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:oxidized_cut_copper_sword"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_pickaxe"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_axe"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_shovel"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_hoe"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_helmet"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_chestplate"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_leggings"
+    },
+    {
+      "item": "anything:oxidized_cut_copper_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:oxidized_cut_copper"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

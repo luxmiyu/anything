@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:gilded_blackstone"
+    }
+  },
+  "result": {
+    "id": "anything:gilded_blackstone_leggings",
+    "count": 1
+  }
+}

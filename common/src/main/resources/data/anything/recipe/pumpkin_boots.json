@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pumpkin"
+    }
+  },
+  "result": {
+    "id": "anything:pumpkin_boots",
+    "count": 1
+  }
+}

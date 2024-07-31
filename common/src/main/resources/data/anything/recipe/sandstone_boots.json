@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sandstone"
+    }
+  },
+  "result": {
+    "id": "anything:sandstone_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crafting_table"
+    }
+  },
+  "result": {
+    "id": "anything:crafting_table_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:andesite"
+    }
+  },
+  "result": {
+    "id": "anything:andesite_leggings",
+    "count": 1
+  }
+}

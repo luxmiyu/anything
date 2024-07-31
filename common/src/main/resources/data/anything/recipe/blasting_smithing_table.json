@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:smithing_table_sword"
+    },
+    {
+      "item": "anything:smithing_table_pickaxe"
+    },
+    {
+      "item": "anything:smithing_table_axe"
+    },
+    {
+      "item": "anything:smithing_table_shovel"
+    },
+    {
+      "item": "anything:smithing_table_hoe"
+    },
+    {
+      "item": "anything:smithing_table_helmet"
+    },
+    {
+      "item": "anything:smithing_table_chestplate"
+    },
+    {
+      "item": "anything:smithing_table_leggings"
+    },
+    {
+      "item": "anything:smithing_table_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:smithing_table"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

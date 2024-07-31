@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:birch_planks_sword"
+    },
+    {
+      "item": "anything:birch_planks_pickaxe"
+    },
+    {
+      "item": "anything:birch_planks_axe"
+    },
+    {
+      "item": "anything:birch_planks_shovel"
+    },
+    {
+      "item": "anything:birch_planks_hoe"
+    },
+    {
+      "item": "anything:birch_planks_helmet"
+    },
+    {
+      "item": "anything:birch_planks_chestplate"
+    },
+    {
+      "item": "anything:birch_planks_leggings"
+    },
+    {
+      "item": "anything:birch_planks_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:birch_planks"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

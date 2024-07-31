@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:obsidian_sword"
+    },
+    {
+      "item": "anything:obsidian_pickaxe"
+    },
+    {
+      "item": "anything:obsidian_axe"
+    },
+    {
+      "item": "anything:obsidian_shovel"
+    },
+    {
+      "item": "anything:obsidian_hoe"
+    },
+    {
+      "item": "anything:obsidian_helmet"
+    },
+    {
+      "item": "anything:obsidian_chestplate"
+    },
+    {
+      "item": "anything:obsidian_leggings"
+    },
+    {
+      "item": "anything:obsidian_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:obsidian"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

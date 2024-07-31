@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:gravel_sword"
+    },
+    {
+      "item": "anything:gravel_pickaxe"
+    },
+    {
+      "item": "anything:gravel_axe"
+    },
+    {
+      "item": "anything:gravel_shovel"
+    },
+    {
+      "item": "anything:gravel_hoe"
+    },
+    {
+      "item": "anything:gravel_helmet"
+    },
+    {
+      "item": "anything:gravel_chestplate"
+    },
+    {
+      "item": "anything:gravel_leggings"
+    },
+    {
+      "item": "anything:gravel_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gravel"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

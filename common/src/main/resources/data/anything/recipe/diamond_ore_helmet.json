@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:diamond_ore"
+    }
+  },
+  "result": {
+    "id": "anything:diamond_ore_helmet",
+    "count": 1
+  }
+}

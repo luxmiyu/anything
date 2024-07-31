@@ -1,0 +1,21 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "##",
+    " I",
+    " I"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:acacia_wood"
+    },
+    "I": {
+      "item": "minecraft:stick"
+    }
+  },
+  "result": {
+    "id": "anything:acacia_wood_hoe",
+    "count": 1
+  }
+}

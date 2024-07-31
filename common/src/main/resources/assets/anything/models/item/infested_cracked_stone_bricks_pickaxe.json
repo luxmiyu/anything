@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "anything:item/infested_cracked_stone_bricks_pickaxe"
+  }
+}

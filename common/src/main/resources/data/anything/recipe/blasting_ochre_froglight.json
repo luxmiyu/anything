@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:ochre_froglight_sword"
+    },
+    {
+      "item": "anything:ochre_froglight_pickaxe"
+    },
+    {
+      "item": "anything:ochre_froglight_axe"
+    },
+    {
+      "item": "anything:ochre_froglight_shovel"
+    },
+    {
+      "item": "anything:ochre_froglight_hoe"
+    },
+    {
+      "item": "anything:ochre_froglight_helmet"
+    },
+    {
+      "item": "anything:ochre_froglight_chestplate"
+    },
+    {
+      "item": "anything:ochre_froglight_leggings"
+    },
+    {
+      "item": "anything:ochre_froglight_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:ochre_froglight"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

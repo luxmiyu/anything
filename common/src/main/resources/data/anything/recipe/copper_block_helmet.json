@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_block"
+    }
+  },
+  "result": {
+    "id": "anything:copper_block_helmet",
+    "count": 1
+  }
+}

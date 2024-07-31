@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:moss_block_sword"
+    },
+    {
+      "item": "anything:moss_block_pickaxe"
+    },
+    {
+      "item": "anything:moss_block_axe"
+    },
+    {
+      "item": "anything:moss_block_shovel"
+    },
+    {
+      "item": "anything:moss_block_hoe"
+    },
+    {
+      "item": "anything:moss_block_helmet"
+    },
+    {
+      "item": "anything:moss_block_chestplate"
+    },
+    {
+      "item": "anything:moss_block_leggings"
+    },
+    {
+      "item": "anything:moss_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:moss_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_log"
+    }
+  },
+  "result": {
+    "id": "anything:birch_log_helmet",
+    "count": 1
+  }
+}

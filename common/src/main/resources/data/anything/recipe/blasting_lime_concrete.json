@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:lime_concrete_sword"
+    },
+    {
+      "item": "anything:lime_concrete_pickaxe"
+    },
+    {
+      "item": "anything:lime_concrete_axe"
+    },
+    {
+      "item": "anything:lime_concrete_shovel"
+    },
+    {
+      "item": "anything:lime_concrete_hoe"
+    },
+    {
+      "item": "anything:lime_concrete_helmet"
+    },
+    {
+      "item": "anything:lime_concrete_chestplate"
+    },
+    {
+      "item": "anything:lime_concrete_leggings"
+    },
+    {
+      "item": "anything:lime_concrete_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:lime_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

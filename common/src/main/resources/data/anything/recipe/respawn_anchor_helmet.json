@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:respawn_anchor"
+    }
+  },
+  "result": {
+    "id": "anything:respawn_anchor_helmet",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mud_bricks"
+    }
+  },
+  "result": {
+    "id": "anything:mud_bricks_leggings",
+    "count": 1
+  }
+}

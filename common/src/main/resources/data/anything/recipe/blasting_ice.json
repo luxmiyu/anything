@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:ice_sword"
+    },
+    {
+      "item": "anything:ice_pickaxe"
+    },
+    {
+      "item": "anything:ice_axe"
+    },
+    {
+      "item": "anything:ice_shovel"
+    },
+    {
+      "item": "anything:ice_hoe"
+    },
+    {
+      "item": "anything:ice_helmet"
+    },
+    {
+      "item": "anything:ice_chestplate"
+    },
+    {
+      "item": "anything:ice_leggings"
+    },
+    {
+      "item": "anything:ice_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:ice"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

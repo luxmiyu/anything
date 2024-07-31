@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:mossy_cobblestone_sword"
+    },
+    {
+      "item": "anything:mossy_cobblestone_pickaxe"
+    },
+    {
+      "item": "anything:mossy_cobblestone_axe"
+    },
+    {
+      "item": "anything:mossy_cobblestone_shovel"
+    },
+    {
+      "item": "anything:mossy_cobblestone_hoe"
+    },
+    {
+      "item": "anything:mossy_cobblestone_helmet"
+    },
+    {
+      "item": "anything:mossy_cobblestone_chestplate"
+    },
+    {
+      "item": "anything:mossy_cobblestone_leggings"
+    },
+    {
+      "item": "anything:mossy_cobblestone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mossy_cobblestone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:redstone_lamp_sword"
+    },
+    {
+      "item": "anything:redstone_lamp_pickaxe"
+    },
+    {
+      "item": "anything:redstone_lamp_axe"
+    },
+    {
+      "item": "anything:redstone_lamp_shovel"
+    },
+    {
+      "item": "anything:redstone_lamp_hoe"
+    },
+    {
+      "item": "anything:redstone_lamp_helmet"
+    },
+    {
+      "item": "anything:redstone_lamp_chestplate"
+    },
+    {
+      "item": "anything:redstone_lamp_leggings"
+    },
+    {
+      "item": "anything:redstone_lamp_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:redstone_lamp"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

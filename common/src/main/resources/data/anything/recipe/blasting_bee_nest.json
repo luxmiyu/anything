@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:bee_nest_sword"
+    },
+    {
+      "item": "anything:bee_nest_pickaxe"
+    },
+    {
+      "item": "anything:bee_nest_axe"
+    },
+    {
+      "item": "anything:bee_nest_shovel"
+    },
+    {
+      "item": "anything:bee_nest_hoe"
+    },
+    {
+      "item": "anything:bee_nest_helmet"
+    },
+    {
+      "item": "anything:bee_nest_chestplate"
+    },
+    {
+      "item": "anything:bee_nest_leggings"
+    },
+    {
+      "item": "anything:bee_nest_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bee_nest"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

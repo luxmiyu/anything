@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "anything:item/cyan_glazed_terracotta_pickaxe"
+  }
+}

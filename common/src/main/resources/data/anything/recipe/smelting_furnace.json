@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:furnace_sword"
+    },
+    {
+      "item": "anything:furnace_pickaxe"
+    },
+    {
+      "item": "anything:furnace_axe"
+    },
+    {
+      "item": "anything:furnace_shovel"
+    },
+    {
+      "item": "anything:furnace_hoe"
+    },
+    {
+      "item": "anything:furnace_helmet"
+    },
+    {
+      "item": "anything:furnace_chestplate"
+    },
+    {
+      "item": "anything:furnace_leggings"
+    },
+    {
+      "item": "anything:furnace_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:furnace"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

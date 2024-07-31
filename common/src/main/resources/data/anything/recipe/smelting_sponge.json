@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:sponge_sword"
+    },
+    {
+      "item": "anything:sponge_pickaxe"
+    },
+    {
+      "item": "anything:sponge_axe"
+    },
+    {
+      "item": "anything:sponge_shovel"
+    },
+    {
+      "item": "anything:sponge_hoe"
+    },
+    {
+      "item": "anything:sponge_helmet"
+    },
+    {
+      "item": "anything:sponge_chestplate"
+    },
+    {
+      "item": "anything:sponge_leggings"
+    },
+    {
+      "item": "anything:sponge_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sponge"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

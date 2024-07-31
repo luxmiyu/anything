@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:packed_mud"
+    }
+  },
+  "result": {
+    "id": "anything:packed_mud_chestplate",
+    "count": 1
+  }
+}

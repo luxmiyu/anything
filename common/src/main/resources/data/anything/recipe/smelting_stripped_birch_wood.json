@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:stripped_birch_wood_sword"
+    },
+    {
+      "item": "anything:stripped_birch_wood_pickaxe"
+    },
+    {
+      "item": "anything:stripped_birch_wood_axe"
+    },
+    {
+      "item": "anything:stripped_birch_wood_shovel"
+    },
+    {
+      "item": "anything:stripped_birch_wood_hoe"
+    },
+    {
+      "item": "anything:stripped_birch_wood_helmet"
+    },
+    {
+      "item": "anything:stripped_birch_wood_chestplate"
+    },
+    {
+      "item": "anything:stripped_birch_wood_leggings"
+    },
+    {
+      "item": "anything:stripped_birch_wood_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stripped_birch_wood"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

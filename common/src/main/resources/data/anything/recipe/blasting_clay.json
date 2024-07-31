@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:clay_sword"
+    },
+    {
+      "item": "anything:clay_pickaxe"
+    },
+    {
+      "item": "anything:clay_axe"
+    },
+    {
+      "item": "anything:clay_shovel"
+    },
+    {
+      "item": "anything:clay_hoe"
+    },
+    {
+      "item": "anything:clay_helmet"
+    },
+    {
+      "item": "anything:clay_chestplate"
+    },
+    {
+      "item": "anything:clay_leggings"
+    },
+    {
+      "item": "anything:clay_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:clay"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

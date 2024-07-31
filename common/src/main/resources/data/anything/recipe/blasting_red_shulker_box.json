@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:red_shulker_box_sword"
+    },
+    {
+      "item": "anything:red_shulker_box_pickaxe"
+    },
+    {
+      "item": "anything:red_shulker_box_axe"
+    },
+    {
+      "item": "anything:red_shulker_box_shovel"
+    },
+    {
+      "item": "anything:red_shulker_box_hoe"
+    },
+    {
+      "item": "anything:red_shulker_box_helmet"
+    },
+    {
+      "item": "anything:red_shulker_box_chestplate"
+    },
+    {
+      "item": "anything:red_shulker_box_leggings"
+    },
+    {
+      "item": "anything:red_shulker_box_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:red_shulker_box"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

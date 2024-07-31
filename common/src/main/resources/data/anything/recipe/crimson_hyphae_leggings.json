@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:crimson_hyphae"
+    }
+  },
+  "result": {
+    "id": "anything:crimson_hyphae_leggings",
+    "count": 1
+  }
+}

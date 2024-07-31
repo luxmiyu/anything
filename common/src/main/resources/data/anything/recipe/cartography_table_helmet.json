@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cartography_table"
+    }
+  },
+  "result": {
+    "id": "anything:cartography_table_helmet",
+    "count": 1
+  }
+}

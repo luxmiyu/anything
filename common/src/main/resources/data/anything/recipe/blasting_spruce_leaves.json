@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:spruce_leaves_sword"
+    },
+    {
+      "item": "anything:spruce_leaves_pickaxe"
+    },
+    {
+      "item": "anything:spruce_leaves_axe"
+    },
+    {
+      "item": "anything:spruce_leaves_shovel"
+    },
+    {
+      "item": "anything:spruce_leaves_hoe"
+    },
+    {
+      "item": "anything:spruce_leaves_helmet"
+    },
+    {
+      "item": "anything:spruce_leaves_chestplate"
+    },
+    {
+      "item": "anything:spruce_leaves_leggings"
+    },
+    {
+      "item": "anything:spruce_leaves_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:spruce_leaves"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:sand_sword"
+    },
+    {
+      "item": "anything:sand_pickaxe"
+    },
+    {
+      "item": "anything:sand_axe"
+    },
+    {
+      "item": "anything:sand_shovel"
+    },
+    {
+      "item": "anything:sand_hoe"
+    },
+    {
+      "item": "anything:sand_helmet"
+    },
+    {
+      "item": "anything:sand_chestplate"
+    },
+    {
+      "item": "anything:sand_leggings"
+    },
+    {
+      "item": "anything:sand_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sand"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

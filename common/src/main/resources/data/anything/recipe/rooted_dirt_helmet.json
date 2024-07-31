@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:rooted_dirt"
+    }
+  },
+  "result": {
+    "id": "anything:rooted_dirt_helmet",
+    "count": 1
+  }
+}

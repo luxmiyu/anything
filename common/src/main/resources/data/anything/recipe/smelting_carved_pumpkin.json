@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:carved_pumpkin_sword"
+    },
+    {
+      "item": "anything:carved_pumpkin_pickaxe"
+    },
+    {
+      "item": "anything:carved_pumpkin_axe"
+    },
+    {
+      "item": "anything:carved_pumpkin_shovel"
+    },
+    {
+      "item": "anything:carved_pumpkin_hoe"
+    },
+    {
+      "item": "anything:carved_pumpkin_helmet"
+    },
+    {
+      "item": "anything:carved_pumpkin_chestplate"
+    },
+    {
+      "item": "anything:carved_pumpkin_leggings"
+    },
+    {
+      "item": "anything:carved_pumpkin_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:carved_pumpkin"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tuff_bricks"
+    }
+  },
+  "result": {
+    "id": "anything:tuff_bricks_helmet",
+    "count": 1
+  }
+}

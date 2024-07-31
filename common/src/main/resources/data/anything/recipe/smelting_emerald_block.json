@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:emerald_block_sword"
+    },
+    {
+      "item": "anything:emerald_block_pickaxe"
+    },
+    {
+      "item": "anything:emerald_block_axe"
+    },
+    {
+      "item": "anything:emerald_block_shovel"
+    },
+    {
+      "item": "anything:emerald_block_hoe"
+    },
+    {
+      "item": "anything:emerald_block_helmet"
+    },
+    {
+      "item": "anything:emerald_block_chestplate"
+    },
+    {
+      "item": "anything:emerald_block_leggings"
+    },
+    {
+      "item": "anything:emerald_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:emerald_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:copper_ore"
+    }
+  },
+  "result": {
+    "id": "anything:copper_ore_chestplate",
+    "count": 1
+  }
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:white_glazed_terracotta"
+    }
+  },
+  "result": {
+    "id": "anything:white_glazed_terracotta_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brown_glazed_terracotta"
+    }
+  },
+  "result": {
+    "id": "anything:brown_glazed_terracotta_chestplate",
+    "count": 1
+  }
+}

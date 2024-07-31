@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:piston"
+    }
+  },
+  "result": {
+    "id": "anything:piston_helmet",
+    "count": 1
+  }
+}

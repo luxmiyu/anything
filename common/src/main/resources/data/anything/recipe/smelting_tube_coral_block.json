@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:tube_coral_block_sword"
+    },
+    {
+      "item": "anything:tube_coral_block_pickaxe"
+    },
+    {
+      "item": "anything:tube_coral_block_axe"
+    },
+    {
+      "item": "anything:tube_coral_block_shovel"
+    },
+    {
+      "item": "anything:tube_coral_block_hoe"
+    },
+    {
+      "item": "anything:tube_coral_block_helmet"
+    },
+    {
+      "item": "anything:tube_coral_block_chestplate"
+    },
+    {
+      "item": "anything:tube_coral_block_leggings"
+    },
+    {
+      "item": "anything:tube_coral_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:tube_coral_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

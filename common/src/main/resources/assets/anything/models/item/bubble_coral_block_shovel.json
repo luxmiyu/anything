@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/handheld",
+  "textures": {
+    "layer0": "anything:item/bubble_coral_block_shovel"
+  }
+}

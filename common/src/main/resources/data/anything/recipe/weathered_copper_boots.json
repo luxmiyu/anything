@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:weathered_copper"
+    }
+  },
+  "result": {
+    "id": "anything:weathered_copper_boots",
+    "count": 1
+  }
+}

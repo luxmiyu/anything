@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:weathered_cut_copper_sword"
+    },
+    {
+      "item": "anything:weathered_cut_copper_pickaxe"
+    },
+    {
+      "item": "anything:weathered_cut_copper_axe"
+    },
+    {
+      "item": "anything:weathered_cut_copper_shovel"
+    },
+    {
+      "item": "anything:weathered_cut_copper_hoe"
+    },
+    {
+      "item": "anything:weathered_cut_copper_helmet"
+    },
+    {
+      "item": "anything:weathered_cut_copper_chestplate"
+    },
+    {
+      "item": "anything:weathered_cut_copper_leggings"
+    },
+    {
+      "item": "anything:weathered_cut_copper_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:weathered_cut_copper"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

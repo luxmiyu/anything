@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:ancient_debris_sword"
+    },
+    {
+      "item": "anything:ancient_debris_pickaxe"
+    },
+    {
+      "item": "anything:ancient_debris_axe"
+    },
+    {
+      "item": "anything:ancient_debris_shovel"
+    },
+    {
+      "item": "anything:ancient_debris_hoe"
+    },
+    {
+      "item": "anything:ancient_debris_helmet"
+    },
+    {
+      "item": "anything:ancient_debris_chestplate"
+    },
+    {
+      "item": "anything:ancient_debris_leggings"
+    },
+    {
+      "item": "anything:ancient_debris_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:ancient_debris"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

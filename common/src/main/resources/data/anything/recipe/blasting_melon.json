@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:melon_sword"
+    },
+    {
+      "item": "anything:melon_pickaxe"
+    },
+    {
+      "item": "anything:melon_axe"
+    },
+    {
+      "item": "anything:melon_shovel"
+    },
+    {
+      "item": "anything:melon_hoe"
+    },
+    {
+      "item": "anything:melon_helmet"
+    },
+    {
+      "item": "anything:melon_chestplate"
+    },
+    {
+      "item": "anything:melon_leggings"
+    },
+    {
+      "item": "anything:melon_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:melon"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

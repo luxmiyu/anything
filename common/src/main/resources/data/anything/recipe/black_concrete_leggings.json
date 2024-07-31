@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_concrete"
+    }
+  },
+  "result": {
+    "id": "anything:black_concrete_leggings",
+    "count": 1
+  }
+}

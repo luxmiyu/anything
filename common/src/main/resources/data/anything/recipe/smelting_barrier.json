@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:barrier_sword"
+    },
+    {
+      "item": "anything:barrier_pickaxe"
+    },
+    {
+      "item": "anything:barrier_axe"
+    },
+    {
+      "item": "anything:barrier_shovel"
+    },
+    {
+      "item": "anything:barrier_hoe"
+    },
+    {
+      "item": "anything:barrier_helmet"
+    },
+    {
+      "item": "anything:barrier_chestplate"
+    },
+    {
+      "item": "anything:barrier_leggings"
+    },
+    {
+      "item": "anything:barrier_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:barrier"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:podzol_sword"
+    },
+    {
+      "item": "anything:podzol_pickaxe"
+    },
+    {
+      "item": "anything:podzol_axe"
+    },
+    {
+      "item": "anything:podzol_shovel"
+    },
+    {
+      "item": "anything:podzol_hoe"
+    },
+    {
+      "item": "anything:podzol_helmet"
+    },
+    {
+      "item": "anything:podzol_chestplate"
+    },
+    {
+      "item": "anything:podzol_leggings"
+    },
+    {
+      "item": "anything:podzol_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:podzol"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:target_sword"
+    },
+    {
+      "item": "anything:target_pickaxe"
+    },
+    {
+      "item": "anything:target_axe"
+    },
+    {
+      "item": "anything:target_shovel"
+    },
+    {
+      "item": "anything:target_hoe"
+    },
+    {
+      "item": "anything:target_helmet"
+    },
+    {
+      "item": "anything:target_chestplate"
+    },
+    {
+      "item": "anything:target_leggings"
+    },
+    {
+      "item": "anything:target_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:target"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

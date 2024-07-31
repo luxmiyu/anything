@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:chiseled_tuff_bricks_sword"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_pickaxe"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_axe"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_shovel"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_hoe"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_helmet"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_chestplate"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_leggings"
+    },
+    {
+      "item": "anything:chiseled_tuff_bricks_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:chiseled_tuff_bricks"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

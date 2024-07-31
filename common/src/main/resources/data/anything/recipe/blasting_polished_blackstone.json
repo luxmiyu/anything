@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:polished_blackstone_sword"
+    },
+    {
+      "item": "anything:polished_blackstone_pickaxe"
+    },
+    {
+      "item": "anything:polished_blackstone_axe"
+    },
+    {
+      "item": "anything:polished_blackstone_shovel"
+    },
+    {
+      "item": "anything:polished_blackstone_hoe"
+    },
+    {
+      "item": "anything:polished_blackstone_helmet"
+    },
+    {
+      "item": "anything:polished_blackstone_chestplate"
+    },
+    {
+      "item": "anything:polished_blackstone_leggings"
+    },
+    {
+      "item": "anything:polished_blackstone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:polished_blackstone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:mushroom_stem"
+    }
+  },
+  "result": {
+    "id": "anything:mushroom_stem_helmet",
+    "count": 1
+  }
+}

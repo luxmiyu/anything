@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:bookshelf_sword"
+    },
+    {
+      "item": "anything:bookshelf_pickaxe"
+    },
+    {
+      "item": "anything:bookshelf_axe"
+    },
+    {
+      "item": "anything:bookshelf_shovel"
+    },
+    {
+      "item": "anything:bookshelf_hoe"
+    },
+    {
+      "item": "anything:bookshelf_helmet"
+    },
+    {
+      "item": "anything:bookshelf_chestplate"
+    },
+    {
+      "item": "anything:bookshelf_leggings"
+    },
+    {
+      "item": "anything:bookshelf_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bookshelf"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

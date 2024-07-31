@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:nether_gold_ore_sword"
+    },
+    {
+      "item": "anything:nether_gold_ore_pickaxe"
+    },
+    {
+      "item": "anything:nether_gold_ore_axe"
+    },
+    {
+      "item": "anything:nether_gold_ore_shovel"
+    },
+    {
+      "item": "anything:nether_gold_ore_hoe"
+    },
+    {
+      "item": "anything:nether_gold_ore_helmet"
+    },
+    {
+      "item": "anything:nether_gold_ore_chestplate"
+    },
+    {
+      "item": "anything:nether_gold_ore_leggings"
+    },
+    {
+      "item": "anything:nether_gold_ore_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:nether_gold_ore"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

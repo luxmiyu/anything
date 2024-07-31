@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:hay_block"
+    }
+  },
+  "result": {
+    "id": "anything:hay_block_boots",
+    "count": 1
+  }
+}

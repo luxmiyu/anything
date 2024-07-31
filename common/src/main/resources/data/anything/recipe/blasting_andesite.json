@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:andesite_sword"
+    },
+    {
+      "item": "anything:andesite_pickaxe"
+    },
+    {
+      "item": "anything:andesite_axe"
+    },
+    {
+      "item": "anything:andesite_shovel"
+    },
+    {
+      "item": "anything:andesite_hoe"
+    },
+    {
+      "item": "anything:andesite_helmet"
+    },
+    {
+      "item": "anything:andesite_chestplate"
+    },
+    {
+      "item": "anything:andesite_leggings"
+    },
+    {
+      "item": "anything:andesite_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:andesite"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

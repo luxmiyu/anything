@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:bedrock_sword"
+    },
+    {
+      "item": "anything:bedrock_pickaxe"
+    },
+    {
+      "item": "anything:bedrock_axe"
+    },
+    {
+      "item": "anything:bedrock_shovel"
+    },
+    {
+      "item": "anything:bedrock_hoe"
+    },
+    {
+      "item": "anything:bedrock_helmet"
+    },
+    {
+      "item": "anything:bedrock_chestplate"
+    },
+    {
+      "item": "anything:bedrock_leggings"
+    },
+    {
+      "item": "anything:bedrock_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bedrock"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

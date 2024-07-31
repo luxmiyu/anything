@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_blue_wool"
+    }
+  },
+  "result": {
+    "id": "anything:light_blue_wool_chestplate",
+    "count": 1
+  }
+}

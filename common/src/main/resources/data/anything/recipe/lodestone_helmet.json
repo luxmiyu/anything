@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:lodestone"
+    }
+  },
+  "result": {
+    "id": "anything:lodestone_helmet",
+    "count": 1
+  }
+}

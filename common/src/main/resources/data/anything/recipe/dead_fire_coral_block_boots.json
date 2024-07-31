@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dead_fire_coral_block"
+    }
+  },
+  "result": {
+    "id": "anything:dead_fire_coral_block_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:magenta_concrete_sword"
+    },
+    {
+      "item": "anything:magenta_concrete_pickaxe"
+    },
+    {
+      "item": "anything:magenta_concrete_axe"
+    },
+    {
+      "item": "anything:magenta_concrete_shovel"
+    },
+    {
+      "item": "anything:magenta_concrete_hoe"
+    },
+    {
+      "item": "anything:magenta_concrete_helmet"
+    },
+    {
+      "item": "anything:magenta_concrete_chestplate"
+    },
+    {
+      "item": "anything:magenta_concrete_leggings"
+    },
+    {
+      "item": "anything:magenta_concrete_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:magenta_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

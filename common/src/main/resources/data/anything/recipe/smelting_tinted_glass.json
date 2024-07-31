@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:tinted_glass_sword"
+    },
+    {
+      "item": "anything:tinted_glass_pickaxe"
+    },
+    {
+      "item": "anything:tinted_glass_axe"
+    },
+    {
+      "item": "anything:tinted_glass_shovel"
+    },
+    {
+      "item": "anything:tinted_glass_hoe"
+    },
+    {
+      "item": "anything:tinted_glass_helmet"
+    },
+    {
+      "item": "anything:tinted_glass_chestplate"
+    },
+    {
+      "item": "anything:tinted_glass_leggings"
+    },
+    {
+      "item": "anything:tinted_glass_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:tinted_glass"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

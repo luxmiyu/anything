@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:waxed_oxidized_cut_copper"
+    }
+  },
+  "result": {
+    "id": "anything:waxed_oxidized_cut_copper_leggings",
+    "count": 1
+  }
+}

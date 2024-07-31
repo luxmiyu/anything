@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:clay"
+    }
+  },
+  "result": {
+    "id": "anything:clay_boots",
+    "count": 1
+  }
+}

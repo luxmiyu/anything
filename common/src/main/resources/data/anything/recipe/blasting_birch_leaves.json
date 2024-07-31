@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:birch_leaves_sword"
+    },
+    {
+      "item": "anything:birch_leaves_pickaxe"
+    },
+    {
+      "item": "anything:birch_leaves_axe"
+    },
+    {
+      "item": "anything:birch_leaves_shovel"
+    },
+    {
+      "item": "anything:birch_leaves_hoe"
+    },
+    {
+      "item": "anything:birch_leaves_helmet"
+    },
+    {
+      "item": "anything:birch_leaves_chestplate"
+    },
+    {
+      "item": "anything:birch_leaves_leggings"
+    },
+    {
+      "item": "anything:birch_leaves_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:birch_leaves"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,6 @@
+{
+  "parent": "minecraft:item/generated",
+  "textures": {
+    "layer0": "anything:item/end_stone_bricks_chestplate"
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:green_wool_sword"
+    },
+    {
+      "item": "anything:green_wool_pickaxe"
+    },
+    {
+      "item": "anything:green_wool_axe"
+    },
+    {
+      "item": "anything:green_wool_shovel"
+    },
+    {
+      "item": "anything:green_wool_hoe"
+    },
+    {
+      "item": "anything:green_wool_helmet"
+    },
+    {
+      "item": "anything:green_wool_chestplate"
+    },
+    {
+      "item": "anything:green_wool_leggings"
+    },
+    {
+      "item": "anything:green_wool_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:green_wool"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

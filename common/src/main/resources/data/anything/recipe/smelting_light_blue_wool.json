@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:light_blue_wool_sword"
+    },
+    {
+      "item": "anything:light_blue_wool_pickaxe"
+    },
+    {
+      "item": "anything:light_blue_wool_axe"
+    },
+    {
+      "item": "anything:light_blue_wool_shovel"
+    },
+    {
+      "item": "anything:light_blue_wool_hoe"
+    },
+    {
+      "item": "anything:light_blue_wool_helmet"
+    },
+    {
+      "item": "anything:light_blue_wool_chestplate"
+    },
+    {
+      "item": "anything:light_blue_wool_leggings"
+    },
+    {
+      "item": "anything:light_blue_wool_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:light_blue_wool"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

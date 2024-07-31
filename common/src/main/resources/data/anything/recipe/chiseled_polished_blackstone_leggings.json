@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_polished_blackstone"
+    }
+  },
+  "result": {
+    "id": "anything:chiseled_polished_blackstone_leggings",
+    "count": 1
+  }
+}

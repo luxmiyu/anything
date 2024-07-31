@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:pearlescent_froglight"
+    }
+  },
+  "result": {
+    "id": "anything:pearlescent_froglight_chestplate",
+    "count": 1
+  }
+}

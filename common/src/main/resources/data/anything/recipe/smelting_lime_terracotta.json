@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:lime_terracotta_sword"
+    },
+    {
+      "item": "anything:lime_terracotta_pickaxe"
+    },
+    {
+      "item": "anything:lime_terracotta_axe"
+    },
+    {
+      "item": "anything:lime_terracotta_shovel"
+    },
+    {
+      "item": "anything:lime_terracotta_hoe"
+    },
+    {
+      "item": "anything:lime_terracotta_helmet"
+    },
+    {
+      "item": "anything:lime_terracotta_chestplate"
+    },
+    {
+      "item": "anything:lime_terracotta_leggings"
+    },
+    {
+      "item": "anything:lime_terracotta_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:lime_terracotta"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

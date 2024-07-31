@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:dead_fire_coral_block_sword"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_pickaxe"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_axe"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_shovel"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_hoe"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_helmet"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_chestplate"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_leggings"
+    },
+    {
+      "item": "anything:dead_fire_coral_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:dead_fire_coral_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

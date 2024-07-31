@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sculk"
+    }
+  },
+  "result": {
+    "id": "anything:sculk_chestplate",
+    "count": 1
+  }
+}

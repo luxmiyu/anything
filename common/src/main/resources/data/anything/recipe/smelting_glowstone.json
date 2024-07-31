@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:glowstone_sword"
+    },
+    {
+      "item": "anything:glowstone_pickaxe"
+    },
+    {
+      "item": "anything:glowstone_axe"
+    },
+    {
+      "item": "anything:glowstone_shovel"
+    },
+    {
+      "item": "anything:glowstone_hoe"
+    },
+    {
+      "item": "anything:glowstone_helmet"
+    },
+    {
+      "item": "anything:glowstone_chestplate"
+    },
+    {
+      "item": "anything:glowstone_leggings"
+    },
+    {
+      "item": "anything:glowstone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:glowstone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

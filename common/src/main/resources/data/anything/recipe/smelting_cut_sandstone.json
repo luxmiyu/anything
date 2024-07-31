@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:cut_sandstone_sword"
+    },
+    {
+      "item": "anything:cut_sandstone_pickaxe"
+    },
+    {
+      "item": "anything:cut_sandstone_axe"
+    },
+    {
+      "item": "anything:cut_sandstone_shovel"
+    },
+    {
+      "item": "anything:cut_sandstone_hoe"
+    },
+    {
+      "item": "anything:cut_sandstone_helmet"
+    },
+    {
+      "item": "anything:cut_sandstone_chestplate"
+    },
+    {
+      "item": "anything:cut_sandstone_leggings"
+    },
+    {
+      "item": "anything:cut_sandstone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cut_sandstone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

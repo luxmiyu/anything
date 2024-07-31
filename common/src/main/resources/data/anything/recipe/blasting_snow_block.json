@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:snow_block_sword"
+    },
+    {
+      "item": "anything:snow_block_pickaxe"
+    },
+    {
+      "item": "anything:snow_block_axe"
+    },
+    {
+      "item": "anything:snow_block_shovel"
+    },
+    {
+      "item": "anything:snow_block_hoe"
+    },
+    {
+      "item": "anything:snow_block_helmet"
+    },
+    {
+      "item": "anything:snow_block_chestplate"
+    },
+    {
+      "item": "anything:snow_block_leggings"
+    },
+    {
+      "item": "anything:snow_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:snow_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

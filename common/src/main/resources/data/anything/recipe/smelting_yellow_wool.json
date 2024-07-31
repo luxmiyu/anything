@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:yellow_wool_sword"
+    },
+    {
+      "item": "anything:yellow_wool_pickaxe"
+    },
+    {
+      "item": "anything:yellow_wool_axe"
+    },
+    {
+      "item": "anything:yellow_wool_shovel"
+    },
+    {
+      "item": "anything:yellow_wool_hoe"
+    },
+    {
+      "item": "anything:yellow_wool_helmet"
+    },
+    {
+      "item": "anything:yellow_wool_chestplate"
+    },
+    {
+      "item": "anything:yellow_wool_leggings"
+    },
+    {
+      "item": "anything:yellow_wool_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:yellow_wool"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

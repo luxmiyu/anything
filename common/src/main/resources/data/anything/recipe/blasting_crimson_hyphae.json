@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:crimson_hyphae_sword"
+    },
+    {
+      "item": "anything:crimson_hyphae_pickaxe"
+    },
+    {
+      "item": "anything:crimson_hyphae_axe"
+    },
+    {
+      "item": "anything:crimson_hyphae_shovel"
+    },
+    {
+      "item": "anything:crimson_hyphae_hoe"
+    },
+    {
+      "item": "anything:crimson_hyphae_helmet"
+    },
+    {
+      "item": "anything:crimson_hyphae_chestplate"
+    },
+    {
+      "item": "anything:crimson_hyphae_leggings"
+    },
+    {
+      "item": "anything:crimson_hyphae_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crimson_hyphae"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

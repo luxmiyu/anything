@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:cherry_wood"
+    }
+  },
+  "result": {
+    "id": "anything:cherry_wood_chestplate",
+    "count": 1
+  }
+}

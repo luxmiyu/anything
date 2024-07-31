@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:brown_wool_sword"
+    },
+    {
+      "item": "anything:brown_wool_pickaxe"
+    },
+    {
+      "item": "anything:brown_wool_axe"
+    },
+    {
+      "item": "anything:brown_wool_shovel"
+    },
+    {
+      "item": "anything:brown_wool_hoe"
+    },
+    {
+      "item": "anything:brown_wool_helmet"
+    },
+    {
+      "item": "anything:brown_wool_chestplate"
+    },
+    {
+      "item": "anything:brown_wool_leggings"
+    },
+    {
+      "item": "anything:brown_wool_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:brown_wool"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

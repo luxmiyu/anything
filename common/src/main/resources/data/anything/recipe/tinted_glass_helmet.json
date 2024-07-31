@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:tinted_glass"
+    }
+  },
+  "result": {
+    "id": "anything:tinted_glass_helmet",
+    "count": 1
+  }
+}

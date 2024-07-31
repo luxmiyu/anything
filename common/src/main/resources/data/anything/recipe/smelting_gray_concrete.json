@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:gray_concrete_sword"
+    },
+    {
+      "item": "anything:gray_concrete_pickaxe"
+    },
+    {
+      "item": "anything:gray_concrete_axe"
+    },
+    {
+      "item": "anything:gray_concrete_shovel"
+    },
+    {
+      "item": "anything:gray_concrete_hoe"
+    },
+    {
+      "item": "anything:gray_concrete_helmet"
+    },
+    {
+      "item": "anything:gray_concrete_chestplate"
+    },
+    {
+      "item": "anything:gray_concrete_leggings"
+    },
+    {
+      "item": "anything:gray_concrete_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:gray_concrete"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:lime_wool_sword"
+    },
+    {
+      "item": "anything:lime_wool_pickaxe"
+    },
+    {
+      "item": "anything:lime_wool_axe"
+    },
+    {
+      "item": "anything:lime_wool_shovel"
+    },
+    {
+      "item": "anything:lime_wool_hoe"
+    },
+    {
+      "item": "anything:lime_wool_helmet"
+    },
+    {
+      "item": "anything:lime_wool_chestplate"
+    },
+    {
+      "item": "anything:lime_wool_leggings"
+    },
+    {
+      "item": "anything:lime_wool_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:lime_wool"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

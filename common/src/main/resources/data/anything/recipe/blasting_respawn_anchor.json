@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:respawn_anchor_sword"
+    },
+    {
+      "item": "anything:respawn_anchor_pickaxe"
+    },
+    {
+      "item": "anything:respawn_anchor_axe"
+    },
+    {
+      "item": "anything:respawn_anchor_shovel"
+    },
+    {
+      "item": "anything:respawn_anchor_hoe"
+    },
+    {
+      "item": "anything:respawn_anchor_helmet"
+    },
+    {
+      "item": "anything:respawn_anchor_chestplate"
+    },
+    {
+      "item": "anything:respawn_anchor_leggings"
+    },
+    {
+      "item": "anything:respawn_anchor_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:respawn_anchor"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

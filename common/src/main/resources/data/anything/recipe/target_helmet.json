@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:target"
+    }
+  },
+  "result": {
+    "id": "anything:target_helmet",
+    "count": 1
+  }
+}

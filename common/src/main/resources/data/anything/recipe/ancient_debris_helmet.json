@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:ancient_debris"
+    }
+  },
+  "result": {
+    "id": "anything:ancient_debris_helmet",
+    "count": 1
+  }
+}

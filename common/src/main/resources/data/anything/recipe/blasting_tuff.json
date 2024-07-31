@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:tuff_sword"
+    },
+    {
+      "item": "anything:tuff_pickaxe"
+    },
+    {
+      "item": "anything:tuff_axe"
+    },
+    {
+      "item": "anything:tuff_shovel"
+    },
+    {
+      "item": "anything:tuff_hoe"
+    },
+    {
+      "item": "anything:tuff_helmet"
+    },
+    {
+      "item": "anything:tuff_chestplate"
+    },
+    {
+      "item": "anything:tuff_leggings"
+    },
+    {
+      "item": "anything:tuff_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:tuff"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

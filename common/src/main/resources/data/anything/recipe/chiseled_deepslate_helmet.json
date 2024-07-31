@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chiseled_deepslate"
+    }
+  },
+  "result": {
+    "id": "anything:chiseled_deepslate_helmet",
+    "count": 1
+  }
+}

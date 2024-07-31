@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:hay_block_sword"
+    },
+    {
+      "item": "anything:hay_block_pickaxe"
+    },
+    {
+      "item": "anything:hay_block_axe"
+    },
+    {
+      "item": "anything:hay_block_shovel"
+    },
+    {
+      "item": "anything:hay_block_hoe"
+    },
+    {
+      "item": "anything:hay_block_helmet"
+    },
+    {
+      "item": "anything:hay_block_chestplate"
+    },
+    {
+      "item": "anything:hay_block_leggings"
+    },
+    {
+      "item": "anything:hay_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:hay_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

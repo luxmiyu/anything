@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:brown_wool"
+    }
+  },
+  "result": {
+    "id": "anything:brown_wool_helmet",
+    "count": 1
+  }
+}

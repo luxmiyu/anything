@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:red_mushroom_block_sword"
+    },
+    {
+      "item": "anything:red_mushroom_block_pickaxe"
+    },
+    {
+      "item": "anything:red_mushroom_block_axe"
+    },
+    {
+      "item": "anything:red_mushroom_block_shovel"
+    },
+    {
+      "item": "anything:red_mushroom_block_hoe"
+    },
+    {
+      "item": "anything:red_mushroom_block_helmet"
+    },
+    {
+      "item": "anything:red_mushroom_block_chestplate"
+    },
+    {
+      "item": "anything:red_mushroom_block_leggings"
+    },
+    {
+      "item": "anything:red_mushroom_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:red_mushroom_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

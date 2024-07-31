@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:mangrove_planks_sword"
+    },
+    {
+      "item": "anything:mangrove_planks_pickaxe"
+    },
+    {
+      "item": "anything:mangrove_planks_axe"
+    },
+    {
+      "item": "anything:mangrove_planks_shovel"
+    },
+    {
+      "item": "anything:mangrove_planks_hoe"
+    },
+    {
+      "item": "anything:mangrove_planks_helmet"
+    },
+    {
+      "item": "anything:mangrove_planks_chestplate"
+    },
+    {
+      "item": "anything:mangrove_planks_leggings"
+    },
+    {
+      "item": "anything:mangrove_planks_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mangrove_planks"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

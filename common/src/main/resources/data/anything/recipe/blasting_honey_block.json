@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:honey_block_sword"
+    },
+    {
+      "item": "anything:honey_block_pickaxe"
+    },
+    {
+      "item": "anything:honey_block_axe"
+    },
+    {
+      "item": "anything:honey_block_shovel"
+    },
+    {
+      "item": "anything:honey_block_hoe"
+    },
+    {
+      "item": "anything:honey_block_helmet"
+    },
+    {
+      "item": "anything:honey_block_chestplate"
+    },
+    {
+      "item": "anything:honey_block_leggings"
+    },
+    {
+      "item": "anything:honey_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:honey_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:melon"
+    }
+  },
+  "result": {
+    "id": "anything:melon_leggings",
+    "count": 1
+  }
+}

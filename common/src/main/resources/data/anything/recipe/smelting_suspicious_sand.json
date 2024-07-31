@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:suspicious_sand_sword"
+    },
+    {
+      "item": "anything:suspicious_sand_pickaxe"
+    },
+    {
+      "item": "anything:suspicious_sand_axe"
+    },
+    {
+      "item": "anything:suspicious_sand_shovel"
+    },
+    {
+      "item": "anything:suspicious_sand_hoe"
+    },
+    {
+      "item": "anything:suspicious_sand_helmet"
+    },
+    {
+      "item": "anything:suspicious_sand_chestplate"
+    },
+    {
+      "item": "anything:suspicious_sand_leggings"
+    },
+    {
+      "item": "anything:suspicious_sand_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:suspicious_sand"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

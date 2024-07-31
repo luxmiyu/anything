@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:mangrove_roots_sword"
+    },
+    {
+      "item": "anything:mangrove_roots_pickaxe"
+    },
+    {
+      "item": "anything:mangrove_roots_axe"
+    },
+    {
+      "item": "anything:mangrove_roots_shovel"
+    },
+    {
+      "item": "anything:mangrove_roots_hoe"
+    },
+    {
+      "item": "anything:mangrove_roots_helmet"
+    },
+    {
+      "item": "anything:mangrove_roots_chestplate"
+    },
+    {
+      "item": "anything:mangrove_roots_leggings"
+    },
+    {
+      "item": "anything:mangrove_roots_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mangrove_roots"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

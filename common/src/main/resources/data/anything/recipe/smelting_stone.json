@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:stone_sword"
+    },
+    {
+      "item": "anything:stone_pickaxe"
+    },
+    {
+      "item": "anything:stone_axe"
+    },
+    {
+      "item": "anything:stone_shovel"
+    },
+    {
+      "item": "anything:stone_hoe"
+    },
+    {
+      "item": "anything:stone_helmet"
+    },
+    {
+      "item": "anything:stone_chestplate"
+    },
+    {
+      "item": "anything:stone_leggings"
+    },
+    {
+      "item": "anything:stone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:stone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

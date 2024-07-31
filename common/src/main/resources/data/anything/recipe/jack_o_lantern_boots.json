@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:jack_o_lantern"
+    }
+  },
+  "result": {
+    "id": "anything:jack_o_lantern_boots",
+    "count": 1
+  }
+}

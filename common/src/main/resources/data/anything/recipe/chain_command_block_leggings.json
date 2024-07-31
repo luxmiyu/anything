@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:chain_command_block"
+    }
+  },
+  "result": {
+    "id": "anything:chain_command_block_leggings",
+    "count": 1
+  }
+}

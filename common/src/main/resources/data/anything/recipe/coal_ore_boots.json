@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:coal_ore"
+    }
+  },
+  "result": {
+    "id": "anything:coal_ore_boots",
+    "count": 1
+  }
+}

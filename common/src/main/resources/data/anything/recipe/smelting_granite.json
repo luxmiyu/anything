@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:granite_sword"
+    },
+    {
+      "item": "anything:granite_pickaxe"
+    },
+    {
+      "item": "anything:granite_axe"
+    },
+    {
+      "item": "anything:granite_shovel"
+    },
+    {
+      "item": "anything:granite_hoe"
+    },
+    {
+      "item": "anything:granite_helmet"
+    },
+    {
+      "item": "anything:granite_chestplate"
+    },
+    {
+      "item": "anything:granite_leggings"
+    },
+    {
+      "item": "anything:granite_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:granite"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

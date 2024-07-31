@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:black_wool"
+    }
+  },
+  "result": {
+    "id": "anything:black_wool_boots",
+    "count": 1
+  }
+}

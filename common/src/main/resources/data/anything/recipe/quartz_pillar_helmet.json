@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:quartz_pillar"
+    }
+  },
+  "result": {
+    "id": "anything:quartz_pillar_helmet",
+    "count": 1
+  }
+}

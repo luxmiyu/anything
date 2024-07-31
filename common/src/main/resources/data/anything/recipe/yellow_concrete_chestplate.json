@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:yellow_concrete"
+    }
+  },
+  "result": {
+    "id": "anything:yellow_concrete_chestplate",
+    "count": 1
+  }
+}

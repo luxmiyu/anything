@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:mushroom_stem_sword"
+    },
+    {
+      "item": "anything:mushroom_stem_pickaxe"
+    },
+    {
+      "item": "anything:mushroom_stem_axe"
+    },
+    {
+      "item": "anything:mushroom_stem_shovel"
+    },
+    {
+      "item": "anything:mushroom_stem_hoe"
+    },
+    {
+      "item": "anything:mushroom_stem_helmet"
+    },
+    {
+      "item": "anything:mushroom_stem_chestplate"
+    },
+    {
+      "item": "anything:mushroom_stem_leggings"
+    },
+    {
+      "item": "anything:mushroom_stem_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mushroom_stem"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

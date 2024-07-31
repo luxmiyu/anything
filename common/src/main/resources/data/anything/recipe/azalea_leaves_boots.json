@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:azalea_leaves"
+    }
+  },
+  "result": {
+    "id": "anything:azalea_leaves_boots",
+    "count": 1
+  }
+}

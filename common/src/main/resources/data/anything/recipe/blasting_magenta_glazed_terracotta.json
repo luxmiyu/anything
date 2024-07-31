@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:magenta_glazed_terracotta_sword"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_pickaxe"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_axe"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_shovel"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_hoe"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_helmet"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_chestplate"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_leggings"
+    },
+    {
+      "item": "anything:magenta_glazed_terracotta_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:magenta_glazed_terracotta"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

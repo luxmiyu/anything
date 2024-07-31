@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:verdant_froglight_sword"
+    },
+    {
+      "item": "anything:verdant_froglight_pickaxe"
+    },
+    {
+      "item": "anything:verdant_froglight_axe"
+    },
+    {
+      "item": "anything:verdant_froglight_shovel"
+    },
+    {
+      "item": "anything:verdant_froglight_hoe"
+    },
+    {
+      "item": "anything:verdant_froglight_helmet"
+    },
+    {
+      "item": "anything:verdant_froglight_chestplate"
+    },
+    {
+      "item": "anything:verdant_froglight_leggings"
+    },
+    {
+      "item": "anything:verdant_froglight_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:verdant_froglight"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

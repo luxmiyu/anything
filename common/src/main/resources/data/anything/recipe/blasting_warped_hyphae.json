@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:warped_hyphae_sword"
+    },
+    {
+      "item": "anything:warped_hyphae_pickaxe"
+    },
+    {
+      "item": "anything:warped_hyphae_axe"
+    },
+    {
+      "item": "anything:warped_hyphae_shovel"
+    },
+    {
+      "item": "anything:warped_hyphae_hoe"
+    },
+    {
+      "item": "anything:warped_hyphae_helmet"
+    },
+    {
+      "item": "anything:warped_hyphae_chestplate"
+    },
+    {
+      "item": "anything:warped_hyphae_leggings"
+    },
+    {
+      "item": "anything:warped_hyphae_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:warped_hyphae"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

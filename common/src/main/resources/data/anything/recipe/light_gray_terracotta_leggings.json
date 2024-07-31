@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_terracotta"
+    }
+  },
+  "result": {
+    "id": "anything:light_gray_terracotta_leggings",
+    "count": 1
+  }
+}

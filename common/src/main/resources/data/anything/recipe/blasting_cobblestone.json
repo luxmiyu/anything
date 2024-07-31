@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:cobblestone_sword"
+    },
+    {
+      "item": "anything:cobblestone_pickaxe"
+    },
+    {
+      "item": "anything:cobblestone_axe"
+    },
+    {
+      "item": "anything:cobblestone_shovel"
+    },
+    {
+      "item": "anything:cobblestone_hoe"
+    },
+    {
+      "item": "anything:cobblestone_helmet"
+    },
+    {
+      "item": "anything:cobblestone_chestplate"
+    },
+    {
+      "item": "anything:cobblestone_leggings"
+    },
+    {
+      "item": "anything:cobblestone_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:cobblestone"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

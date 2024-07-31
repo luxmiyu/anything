@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:dropper"
+    }
+  },
+  "result": {
+    "id": "anything:dropper_chestplate",
+    "count": 1
+  }
+}

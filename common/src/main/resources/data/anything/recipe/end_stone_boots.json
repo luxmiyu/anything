@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:end_stone"
+    }
+  },
+  "result": {
+    "id": "anything:end_stone_boots",
+    "count": 1
+  }
+}

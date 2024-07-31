@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:birch_wood"
+    }
+  },
+  "result": {
+    "id": "anything:birch_wood_boots",
+    "count": 1
+  }
+}

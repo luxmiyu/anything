@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:redstone_block_sword"
+    },
+    {
+      "item": "anything:redstone_block_pickaxe"
+    },
+    {
+      "item": "anything:redstone_block_axe"
+    },
+    {
+      "item": "anything:redstone_block_shovel"
+    },
+    {
+      "item": "anything:redstone_block_hoe"
+    },
+    {
+      "item": "anything:redstone_block_helmet"
+    },
+    {
+      "item": "anything:redstone_block_chestplate"
+    },
+    {
+      "item": "anything:redstone_block_leggings"
+    },
+    {
+      "item": "anything:redstone_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:redstone_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

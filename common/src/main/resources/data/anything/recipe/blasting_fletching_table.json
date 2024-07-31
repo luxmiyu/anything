@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:fletching_table_sword"
+    },
+    {
+      "item": "anything:fletching_table_pickaxe"
+    },
+    {
+      "item": "anything:fletching_table_axe"
+    },
+    {
+      "item": "anything:fletching_table_shovel"
+    },
+    {
+      "item": "anything:fletching_table_hoe"
+    },
+    {
+      "item": "anything:fletching_table_helmet"
+    },
+    {
+      "item": "anything:fletching_table_chestplate"
+    },
+    {
+      "item": "anything:fletching_table_leggings"
+    },
+    {
+      "item": "anything:fletching_table_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:fletching_table"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

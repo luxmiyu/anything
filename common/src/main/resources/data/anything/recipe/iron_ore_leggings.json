@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:iron_ore"
+    }
+  },
+  "result": {
+    "id": "anything:iron_ore_leggings",
+    "count": 1
+  }
+}

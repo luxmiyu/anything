@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:reinforced_deepslate"
+    }
+  },
+  "result": {
+    "id": "anything:reinforced_deepslate_boots",
+    "count": 1
+  }
+}

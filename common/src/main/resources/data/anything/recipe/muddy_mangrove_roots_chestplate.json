@@ -1,0 +1,18 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:muddy_mangrove_roots"
+    }
+  },
+  "result": {
+    "id": "anything:muddy_mangrove_roots_chestplate",
+    "count": 1
+  }
+}

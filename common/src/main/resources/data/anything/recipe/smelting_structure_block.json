@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:structure_block_sword"
+    },
+    {
+      "item": "anything:structure_block_pickaxe"
+    },
+    {
+      "item": "anything:structure_block_axe"
+    },
+    {
+      "item": "anything:structure_block_shovel"
+    },
+    {
+      "item": "anything:structure_block_hoe"
+    },
+    {
+      "item": "anything:structure_block_helmet"
+    },
+    {
+      "item": "anything:structure_block_chestplate"
+    },
+    {
+      "item": "anything:structure_block_leggings"
+    },
+    {
+      "item": "anything:structure_block_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:structure_block"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

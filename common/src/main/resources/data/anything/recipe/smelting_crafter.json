@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:crafter_sword"
+    },
+    {
+      "item": "anything:crafter_pickaxe"
+    },
+    {
+      "item": "anything:crafter_axe"
+    },
+    {
+      "item": "anything:crafter_shovel"
+    },
+    {
+      "item": "anything:crafter_hoe"
+    },
+    {
+      "item": "anything:crafter_helmet"
+    },
+    {
+      "item": "anything:crafter_chestplate"
+    },
+    {
+      "item": "anything:crafter_leggings"
+    },
+    {
+      "item": "anything:crafter_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:crafter"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

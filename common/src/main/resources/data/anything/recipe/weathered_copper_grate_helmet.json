@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:weathered_copper_grate"
+    }
+  },
+  "result": {
+    "id": "anything:weathered_copper_grate_helmet",
+    "count": 1
+  }
+}

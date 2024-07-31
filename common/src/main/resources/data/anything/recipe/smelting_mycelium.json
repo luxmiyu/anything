@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:mycelium_sword"
+    },
+    {
+      "item": "anything:mycelium_pickaxe"
+    },
+    {
+      "item": "anything:mycelium_axe"
+    },
+    {
+      "item": "anything:mycelium_shovel"
+    },
+    {
+      "item": "anything:mycelium_hoe"
+    },
+    {
+      "item": "anything:mycelium_helmet"
+    },
+    {
+      "item": "anything:mycelium_chestplate"
+    },
+    {
+      "item": "anything:mycelium_leggings"
+    },
+    {
+      "item": "anything:mycelium_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:mycelium"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

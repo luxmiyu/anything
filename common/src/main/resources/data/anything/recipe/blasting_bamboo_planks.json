@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:bamboo_planks_sword"
+    },
+    {
+      "item": "anything:bamboo_planks_pickaxe"
+    },
+    {
+      "item": "anything:bamboo_planks_axe"
+    },
+    {
+      "item": "anything:bamboo_planks_shovel"
+    },
+    {
+      "item": "anything:bamboo_planks_hoe"
+    },
+    {
+      "item": "anything:bamboo_planks_helmet"
+    },
+    {
+      "item": "anything:bamboo_planks_chestplate"
+    },
+    {
+      "item": "anything:bamboo_planks_leggings"
+    },
+    {
+      "item": "anything:bamboo_planks_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:bamboo_planks"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

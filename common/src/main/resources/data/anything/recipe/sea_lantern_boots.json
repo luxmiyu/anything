@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:sea_lantern"
+    }
+  },
+  "result": {
+    "id": "anything:sea_lantern_boots",
+    "count": 1
+  }
+}

@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:calcite_sword"
+    },
+    {
+      "item": "anything:calcite_pickaxe"
+    },
+    {
+      "item": "anything:calcite_axe"
+    },
+    {
+      "item": "anything:calcite_shovel"
+    },
+    {
+      "item": "anything:calcite_hoe"
+    },
+    {
+      "item": "anything:calcite_helmet"
+    },
+    {
+      "item": "anything:calcite_chestplate"
+    },
+    {
+      "item": "anything:calcite_leggings"
+    },
+    {
+      "item": "anything:calcite_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:calcite"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

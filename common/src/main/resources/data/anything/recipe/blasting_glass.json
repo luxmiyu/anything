@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:glass_sword"
+    },
+    {
+      "item": "anything:glass_pickaxe"
+    },
+    {
+      "item": "anything:glass_axe"
+    },
+    {
+      "item": "anything:glass_shovel"
+    },
+    {
+      "item": "anything:glass_hoe"
+    },
+    {
+      "item": "anything:glass_helmet"
+    },
+    {
+      "item": "anything:glass_chestplate"
+    },
+    {
+      "item": "anything:glass_leggings"
+    },
+    {
+      "item": "anything:glass_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:glass"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

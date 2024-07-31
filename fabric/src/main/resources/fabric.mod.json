@@ -1,0 +1,48 @@
+{
+  "schemaVersion": 1,
+  "id": "anything",
+  "version": "${version}",
+  "name": "Anything",
+  "description": "Create tools and armor out of any block! This mod adds 3800+ tools and armor pieces to the game, for each of the blocks in the game.",
+  "authors": [
+    "luxmiyu"
+  ],
+  "contact": {
+    "homepage": "https://luxmiyu.com/anything",
+    "sources": "https://github.com/luxmiyu/anything",
+    "issues": "https://github.com/luxmiyu/anything/issues"
+  },
+  "license": "MIT",
+  "icon": "icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "main": [
+      "dev.luxmiyu.anything.fabric.AnythingFabric"
+    ],
+    "client": [
+      "dev.luxmiyu.anything.fabric.client.AnythingFabricClient"
+    ]
+  },
+  "mixins": [],
+  "depends": {
+    "fabricloader": ">=0.15.11",
+    "minecraft": "~1.21",
+    "java": ">=17",
+    "architectury": ">=13.0.2",
+    "fabric-api": "*"
+  },
+  "suggests": {
+    "modmenu": "*",
+    "polymorph": "*"
+  },
+  "custom": {
+    "modmenu": {
+      "links": {
+        "anything.discord": "https://discord.gg/komimau",
+        "anything.luxmiyu": "https://luxmiyu.com"
+      },
+      "badges": [],
+      "update_checker": true
+    }
+  }
+}

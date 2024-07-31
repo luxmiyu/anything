@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:dark_oak_log_sword"
+    },
+    {
+      "item": "anything:dark_oak_log_pickaxe"
+    },
+    {
+      "item": "anything:dark_oak_log_axe"
+    },
+    {
+      "item": "anything:dark_oak_log_shovel"
+    },
+    {
+      "item": "anything:dark_oak_log_hoe"
+    },
+    {
+      "item": "anything:dark_oak_log_helmet"
+    },
+    {
+      "item": "anything:dark_oak_log_chestplate"
+    },
+    {
+      "item": "anything:dark_oak_log_leggings"
+    },
+    {
+      "item": "anything:dark_oak_log_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:dark_oak_log"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

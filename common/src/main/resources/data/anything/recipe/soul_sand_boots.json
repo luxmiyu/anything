@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "# #",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:soul_sand"
+    }
+  },
+  "result": {
+    "id": "anything:soul_sand_boots",
+    "count": 1
+  }
+}

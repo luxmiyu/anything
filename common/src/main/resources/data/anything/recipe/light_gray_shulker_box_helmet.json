@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "equipment",
+  "pattern": [
+    "###",
+    "# #"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:light_gray_shulker_box"
+    }
+  },
+  "result": {
+    "id": "anything:light_gray_shulker_box_helmet",
+    "count": 1
+  }
+}

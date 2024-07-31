@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:sculk_catalyst_sword"
+    },
+    {
+      "item": "anything:sculk_catalyst_pickaxe"
+    },
+    {
+      "item": "anything:sculk_catalyst_axe"
+    },
+    {
+      "item": "anything:sculk_catalyst_shovel"
+    },
+    {
+      "item": "anything:sculk_catalyst_hoe"
+    },
+    {
+      "item": "anything:sculk_catalyst_helmet"
+    },
+    {
+      "item": "anything:sculk_catalyst_chestplate"
+    },
+    {
+      "item": "anything:sculk_catalyst_leggings"
+    },
+    {
+      "item": "anything:sculk_catalyst_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:sculk_catalyst"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}

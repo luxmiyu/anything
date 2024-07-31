@@ -1,0 +1,38 @@
+{
+  "type": "minecraft:smelting",
+  "category": "misc",
+  "ingredient": [
+    {
+      "item": "anything:netherrack_sword"
+    },
+    {
+      "item": "anything:netherrack_pickaxe"
+    },
+    {
+      "item": "anything:netherrack_axe"
+    },
+    {
+      "item": "anything:netherrack_shovel"
+    },
+    {
+      "item": "anything:netherrack_hoe"
+    },
+    {
+      "item": "anything:netherrack_helmet"
+    },
+    {
+      "item": "anything:netherrack_chestplate"
+    },
+    {
+      "item": "anything:netherrack_leggings"
+    },
+    {
+      "item": "anything:netherrack_boots"
+    }
+  ],
+  "result": {
+    "id": "minecraft:netherrack"
+  },
+  "experience": 0.1,
+  "cookingtime": 200
+}
