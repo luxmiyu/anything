@@ -11,7 +11,7 @@ authors = "luxmiyu"
 description = '''
 Create tools and armor out of any block! This mod adds 3800+ tools and armor pieces to the game, for each of the blocks in the game.
 '''
-#logoFile = ""
+logoFile = "icon.png"
 
 [[dependencies.anything]]
 modId = "neoforge"
