@@ -10,9 +10,9 @@ Each of the materials has their own texture and stats, and a few of them have un
 - ![Modrinth Icon](images/modrinth.png)
   [Get on Modrinth](https://modrinth.com/mod/anything)
 - ![CurseForge Icon](images/curseforge.png)
-  [Get on CurseForge](https://www.curseforge.com/minecraft/mc-mods/anything)
+  [Get on CurseForge](https://www.curseforge.com/minecraft/mc-mods/anything-tools-armor)
 - ![Planet Minecraft Icon](images/planetminecraft.png)
-  [Get on Planet Minecraft](https://www.planetminecraft.com/mod/anything)
+  [Get on Planet Minecraft](https://www.planetminecraft.com/mod/anything-6360331/)
 
 Highly recommend using a mod such as [Polymorph](https://github.com/illusivesoulworks/polymorph) to prevent recipe
 conflicts with vanilla tools and equipments as well as items from other mods.
