@@ -44,6 +44,8 @@ def main():
     'anything.description': 'Create tools and armor out of any block! This mod adds 3800+ tools and armor pieces to the game, for each of the blocks in the game.',
     'anything.luxmiyu': 'luxmiyu',
     'anything.discord': 'Discord',
+    'message.anything.command_not_player': 'You must be a player to run this command!',
+    'message.anything.command_no_permission': 'You don\'t have permission to use this command',
   }
 
   tags = {

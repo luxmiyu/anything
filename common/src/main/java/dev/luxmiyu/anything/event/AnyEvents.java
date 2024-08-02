@@ -1,13 +1,16 @@
 package dev.luxmiyu.anything.event;
 
+import com.mojang.brigadier.builder.LiteralArgumentBuilder;
 import dev.architectury.event.EventResult;
 import dev.architectury.event.events.common.BlockEvent;
+import dev.architectury.event.events.common.CommandRegistrationEvent;
 import dev.architectury.event.events.common.EntityEvent;
 import dev.luxmiyu.anything.Anything;
 import net.minecraft.entity.player.PlayerEntity;
 import net.minecraft.item.Item;
 import net.minecraft.item.ItemStack;
 import net.minecraft.registry.Registries;
+import net.minecraft.server.command.ServerCommandSource;
 import net.minecraft.util.Hand;
 import net.minecraft.util.Identifier;
 import net.minecraft.world.World;
@@ -34,6 +37,10 @@ public class AnyEvents {
     }
 
     public static void init() {
+        CommandRegistrationEvent.EVENT.register((dispatcher, registry, selection) -> {
+            dispatcher.register(LiteralArgumentBuilder.<ServerCommandSource>literal("anything").executes(AnythingCommand::execute));
+        });
+
         BlockEvent.BREAK.register((world, pos, state, player, xp) -> {
             if (world.isClient) return EventResult.pass();
             if (player == null) return EventResult.pass();
